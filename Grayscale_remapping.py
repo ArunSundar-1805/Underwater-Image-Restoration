@@ -1,6 +1,7 @@
 import numpy as np
 
 def Grayscale_remapping(image):
+    
     """
     Grayscale World White Balance and Histogram Auto-Contrast Adjustment.
     A literal Python translation of the MATLAB script, using explicit loops.

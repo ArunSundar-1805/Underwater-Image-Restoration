@@ -1,5 +1,4 @@
 import numpy as np
-# Scikit-learn is no longer needed for this function
 
 def _rgb2ind_python(img, n_colors):
     """
