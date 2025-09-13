@@ -1,0 +1,55 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Results or output directories
+Results/
+output/
+*.log
+
+# Image cache or temp files
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+*.webp
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# System files
+Thumbs.db
+
+# Anaconda environment files
+*.conda
+*.egg-info/
+build/
+dist/
+
+# PyTest cache
+.pytest_cache/
+
+# Ignore model weights or large data files if used
+models/
+data/
